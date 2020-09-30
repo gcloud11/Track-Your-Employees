@@ -8,6 +8,7 @@ Use the package manager to install inquirer and MySQL.
 ```
 ## Visuals
 
+<img width="863" alt="Screen Shot 2020-09-30 at 4 09 49 PM" src="https://user-images.githubusercontent.com/67169488/94739990-7838b900-0337-11eb-9c34-9ee6e31da52a.png">
 
 ## Demo:
 
