@@ -8,5 +8,7 @@ Use the package manager to install inquirer and MySQL.
 ```
 ## Visuals
 
-<iframe src="https://drive.google.com/file/d/1OkY9FTIuYvmasArE5EpS2EPFJR0ttH78/preview" width="640" height="480"></iframe>
 
+## Demo:
+
+https://drive.google.com/file/d/1OkY9FTIuYvmasArE5EpS2EPFJR0ttH78/view
